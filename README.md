@@ -2,4 +2,4 @@
 
 사용 언어 : ```python```
 
-환경 : python=3.7
+환경 : python=3.7, pandas=1.2.1, matplotlib=3.3.4
